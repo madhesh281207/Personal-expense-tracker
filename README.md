@@ -21,10 +21,11 @@ A simple and responsive web application that helps users manage their daily inco
 - Local Storage
 
 ## How to Run
-1. Download or clone the repository.
-2. Open the project folder in VS Code.
-3. Install the **Live Server** extension.
-4. Right-click `index.html` and select **Open with Live Server**.
+
+1. Download or clone this repository.
+2. Extract the ZIP file (if downloaded as ZIP).
+3. Open `index.html` in any modern web browser (Google Chrome, Microsoft Edge, Firefox, etc.).
+4. Start adding your income and expense transactions.
 
 ## Future Enhancements
 - User authentication
